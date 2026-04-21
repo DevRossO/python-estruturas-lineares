@@ -9,7 +9,7 @@ tamanho_limite = 5
 vetor_novo = []
 
 for i in range(10):
-    elemento_novo = i * 3   #Aqui criamos elementos do nosso vetor
+    elemento_novo = i * 3 
 
     if contador >= tamanho_limite:
         tamanho_limite *= 2
